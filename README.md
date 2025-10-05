@@ -29,14 +29,6 @@
 
 <br>
 
-<!-- Öne Çıkan Projeler -->
-<h2 style="color:#333;">📌 Öne Çıkan Projeler</h2>
-
-<ul>
-  <li><strong>🎮 RPG Oyunu:</strong> RPG Maker ile geliştirilmiş kısa bir hikaye tabanlı oyun.</li>
-  <li><strong>📝 Blog Sistemi:</strong> PHP tabanlı, sade bir içerik yönetim sistemi.</li>
-  <li><strong>🔧 Bash Script:</strong> Linux otomasyonları için script araçları.</li>
-</ul>
 
 <br>
 
@@ -44,8 +36,8 @@
 <h2 style="color:#333;">📫 Bana Ulaşın</h2>
 
 <p>
-  <strong>GitHub:</strong> <a href="https://github.com/kullaniciAdi" target="_blank">github.com/kullaniciAdi</a> <br>
-  <strong>Email:</strong> <a href="mailto:seninmailin@example.com">seninmailin@example.com</a> <br>
+  <strong>GitHub:</strong> <a href="https://github.com/asterov00" target="_blank">github.com/kullaniciAdi</a> <br>
+  <strong>Email:</strong> <a href="newint300@gmail.com">seninmailin@example.com</a> <br>
   <!-- LinkedIn varsa ekleyebilirsin -->
 </p>
 
