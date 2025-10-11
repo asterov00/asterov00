@@ -33,11 +33,6 @@
 <!-- İletişim -->
 <h2 style="color:#333;">📫 Bana Ulaşın</h2>
 
-<p>
-  <strong>GitHub:</strong> <a href="https://github.com/asterov00" target="_blank">github.com/asterov00</a> <br>
-  <strong>Email:</strong> <a href="newint300@gmail.com">newint3000@gmail.com</a> <br>
-  <!-- LinkedIn varsa ekleyebilirsin -->
-</p>
 
 <br>
 
