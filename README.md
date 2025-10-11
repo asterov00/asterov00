@@ -37,7 +37,7 @@
 
 <p>
   <strong>GitHub:</strong> <a href="https://github.com/asterov00" target="_blank">github.com/asterov00</a> <br>
-  <strong>Email:</strong> <a href="newint300@gmail.com">newint3000@gameil.com</a> <br>
+  <strong>Email:</strong> <a href="newint300@gmail.com">newint3000@gmail.com</a> <br>
   <!-- LinkedIn varsa ekleyebilirsin -->
 </p>
 
